@@ -1,0 +1,12 @@
+# Project exclude paths
+/api-gateway-zuul/target/
+/course-dubbo-service/target/
+/course-dubbo-service-api/target/
+/couser-edge-service/target/
+/message-thrift-service-api/target/
+/user-edge-service/target/
+/user-edge-service-client/target/
+/user-thrift-service/target/
+/user-thrift-service-api/target/
+/**/*.iml
+/.idea/
